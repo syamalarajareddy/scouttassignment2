@@ -1,0 +1,185 @@
+body
+{
+    background-color:red;
+}
+.divleft
+{
+    background:#6166f8;
+    width: 250px;
+    height: 770px;
+    float: left;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius:10px ;
+    }
+    h3{
+     text-align: center;
+     color: white;
+    }
+body
+{
+   background-color: #f3f5f9;
+}
+.wrapper
+{
+  display: flex;
+  position: relative;
+}
+.sidebar  {
+    display: block;
+    width: 40px;
+    height: 40px;
+    line-height: 20px;
+    text-align: center;
+    margin: 0 5px;
+    color: #bdb8d7;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding-left: 10px;  
+}
+ul
+ {
+    list-style-type: none;
+}
+li
+{
+    color: white;
+    float: left;
+}
+.divbox
+{
+  width: 70%;  
+  height: 330px;
+  background-color: white;
+ border-radius: 20px;
+   position: relative;
+   top: 38%;
+   left: 14%;
+}
+i
+{
+    padding: auto;
+    color: blue;
+}
+.img
+{
+    background-color: tomato;
+    width: 30px;
+    height: 30px;
+    position: relative;
+    top: 47px;
+    left: 25px;
+}
+.cloud
+{
+    width: 30px;
+    height: 30px;
+    position: relative;
+    top: -40px;
+    left: 25px;
+}
+.para
+{
+    width: 100px;
+    height: 80px;
+    position: relative;
+    top: 30px;
+    left: 50px;
+}
+h5
+{
+    margin-left: 55px;
+}
+label
+{
+    padding-left: 20px;
+}
+meter
+{
+    padding-left: 20px;
+    width: 80%;
+}
+ .search-bar
+ {
+    background-color: #fafafa;
+    border-radius: 6px;
+    border-style: none;
+    color: #b1aaa0;
+    font-size: 14px;
+    margin: 15px 20px;
+    padding: 12px 7px;
+    width: 95%;
+    text-align: center;
+}
+.fa-search
+{
+    margin: 27px 40px;
+    color: #b1aaa0;
+}
+.input-icons i 
+{
+    position: absolute;
+}
+.images
+{
+    border-radius: 30px;
+    padding-left: 13px;
+    width: 200px;
+    height: 120px;
+}
+.img_size
+{
+        position: relative;
+        top: 25px;
+        right: 40px;
+}
+.img_size1
+{
+        position: relative;
+        top: 20px;
+        right: 43px;
+}
+.img_size2
+{
+        position: relative;
+        top: 25px;
+        left: -30px;
+}
+.cloud2
+{
+    width: 100px;
+    height: 120px;
+    position: relative;
+display: inline-flex;
+background-color: white;
+border-radius: 10px;
+    
+    border-radius: 20px;
+    margin-left: 5px;
+
+}
+.divright
+{
+    width: 1090px;
+    height: 770px;
+   
+    margin-left: 250px;
+}
+.size
+{
+    margin: 20px 30px;
+}
+.cloud3
+{
+    width: 40px;
+    height: 60px;
+    position:relative;
+    bottom: 110px;
+    left: 980px;
+    border-radius: 20px;
+}
+.inputs
+{
+    width:250px;
+    height: 20px;
+    text-align: center;
+}
